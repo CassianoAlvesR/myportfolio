@@ -13,12 +13,12 @@
 
 /* variaveis cor */
 :root {
-    --main-color: #85a8fc;
+    --main-color: #1b62b9; 
     --main-text-color: #fff;
     --border-color: #999;
-    --bio-bg-color: #1e2a3a;
-    --bio-border-color: #293544;
-    --about-bg-color: #111821;
+    --bio-bg-color: #05050e; 
+    --bio-border-color: #223d5e; 
+    --about-bg-color: #090918; 
 }
 
 /* containers */
